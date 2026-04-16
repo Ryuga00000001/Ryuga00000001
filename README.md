@@ -27,22 +27,9 @@
   <img src="https://skillicons.dev/icons?i=react,nodejs,python,js,java,cs,cpp,c,html,css,docker,git,github,vscode&perline=7" />
 </p>
 
-##  Featured Projects
-### Portfolio ProMax
-- High-end personal portfolio with conversion-oriented UX and performance optimization.
-- Repo: https://github.com/Ryuga00000001/portfolio-promax
-
-### Van Ban Thanh Giong Noi
-- Text-to-speech product focused on usability and accessibility scenarios.
-- Repo: https://github.com/Ryuga00000001/van-ban-thanh-giong-noi
-
-### Nexa Store Full Stack
-- Full-stack e-commerce solution with frontend, backend APIs, and data integration.
-- Repo: https://github.com/Ryuga00000001/nexa-store-full-stack
-
 ##  3D Contribution (Auto Generated)
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
+  <img src="https://raw.githubusercontent.com/Ryuga00000001/Ryuga00000001/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
 </p>
 
 ##  Stats
