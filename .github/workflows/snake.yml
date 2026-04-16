@@ -14,6 +14,9 @@ jobs:
     permissions:
       contents: write
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
@@ -21,6 +24,7 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.gif
 
       - name: Push Snake Animation to Output Branch
         uses: crazy-max/ghaction-github-pages@v4
