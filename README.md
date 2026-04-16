@@ -33,13 +33,23 @@
 </p>
 
 ##  Freelance Services
-- Business websites and landing pages
-- Admin dashboards and internal tools
-- E-commerce and checkout flows
-- API integration and workflow automation
-- Performance optimization and codebase cleanup
+<p align="center">
+  <img src="./assets/freelance-services.svg" alt="Freelance services card" width="100%" />
+</p>
 
 ##  Contact
-- GitHub: https://github.com/Ryuga00000001
-- Email: your-email-here
-- LinkedIn: your-linkedin-here
+<p align="center">
+  <img src="./assets/contact-card.svg" alt="Contact card" width="100%" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Ryuga00000001">
+    <img src="https://img.shields.io/badge/GitHub-Ryuga00000001-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="mailto:your-email-here">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-16A34A?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/your-linkedin-here">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>

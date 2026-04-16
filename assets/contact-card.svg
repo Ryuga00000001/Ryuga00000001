@@ -1,0 +1,24 @@
+<svg width="1100" height="220" viewBox="0 0 1100 220" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Contact">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1100" y2="220" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111827"/>
+      <stop offset="1" stop-color="#0B1220"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="0" width="1100" height="220" rx="22" fill="url(#bg2)"/>
+  <text x="48" y="58" fill="#E2E8F0" font-size="34" font-family="Arial, Helvetica, sans-serif" font-weight="700">Contact</text>
+  <text x="48" y="87" fill="#94A3B8" font-size="16" font-family="Arial, Helvetica, sans-serif">Open for freelance collaborations and long-term projects</text>
+
+  <rect x="40" y="114" width="320" height="70" rx="14" fill="#0F172A" stroke="#3B82F6" stroke-opacity="0.7"/>
+  <text x="62" y="143" fill="#F8FAFC" font-size="18" font-family="Arial, Helvetica, sans-serif" font-weight="700">GitHub</text>
+  <text x="62" y="165" fill="#9CA3AF" font-size="14" font-family="Arial, Helvetica, sans-serif">github.com/Ryuga00000001</text>
+
+  <rect x="390" y="114" width="320" height="70" rx="14" fill="#0F172A" stroke="#22C55E" stroke-opacity="0.7"/>
+  <text x="412" y="143" fill="#F8FAFC" font-size="18" font-family="Arial, Helvetica, sans-serif" font-weight="700">Email</text>
+  <text x="412" y="165" fill="#9CA3AF" font-size="14" font-family="Arial, Helvetica, sans-serif">your-email-here</text>
+
+  <rect x="740" y="114" width="320" height="70" rx="14" fill="#0F172A" stroke="#0EA5E9" stroke-opacity="0.7"/>
+  <text x="762" y="143" fill="#F8FAFC" font-size="18" font-family="Arial, Helvetica, sans-serif" font-weight="700">LinkedIn</text>
+  <text x="762" y="165" fill="#9CA3AF" font-size="14" font-family="Arial, Helvetica, sans-serif">your-linkedin-here</text>
+</svg>
