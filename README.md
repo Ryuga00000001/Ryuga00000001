@@ -22,7 +22,7 @@ Freelance Full-Stack Developer focused on React, Node.js, Python, and production
 - Premium personal portfolio focused on conversion and speed.
 - Repository: https://github.com/Ryuga00000001/portfolio-promax
 
-### 2. Van Ban Thanh Giong Noi (Text-to-Speech)
+### 2. Text-to-Speech
 - Practical text-to-speech app for productivity and accessibility.
 - Repository: https://github.com/Ryuga00000001/van-ban-thanh-giong-noi
 
