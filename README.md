@@ -27,23 +27,13 @@
   <img src="https://skillicons.dev/icons?i=react,nodejs,python,js,java,cs,cpp,c,html,css,docker,git,github,vscode&perline=7" />
 </p>
 
-##  3D Contribution (Auto Generated)
+##  Snake Game
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ryuga00000001/Ryuga00000001/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
-</p>
-
-##  Stats
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ryuga00000001&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryuga00000001&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ryuga00000001&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ryuga00000001&theme=tokyo-night&hide_border=true&area=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ryuga00000001/Ryuga00000001/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ryuga00000001/Ryuga00000001/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Ryuga00000001/Ryuga00000001/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ##  Freelance Services
