@@ -46,10 +46,10 @@
   <a href="https://github.com/Ryuga00000001">
     <img src="https://img.shields.io/badge/GitHub-Ryuga00000001-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="mailto:your-email-here">
+  <a href="aovkiz123@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-16A34A?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin-here">
+  <a href="https://www.linkedin.com/in/quan-huynh-208b38403/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
